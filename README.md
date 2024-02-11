@@ -8,7 +8,7 @@ Apresentação: Projeto Cafeteria Toque Sedutor - Freelancer
 
 <p>Hoje estou empolgado em apresentar o meu novo projeto, a Cafeteria Toque Sedutor, uma plataforma web desenvolvida com HTML, CSS e JavaScript. Vamos explorar as características e elementos que tornam esta cafeteria virtual única e cativante.</p>
 
-<a href="https://danielportela.netlify.app/"><strong>Demonstração ao vivo</strong></a>
+<a href="https://cafeteriawebsite.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
 ![preview-desktop](https://github.com/daniel-portela/Cafeteria/assets/110783805/a3901b12-6179-4cdf-8731-41d995029aef)
