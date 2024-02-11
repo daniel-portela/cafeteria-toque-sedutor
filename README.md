@@ -11,10 +11,9 @@ Apresentação: Projeto Cafeteria Toque Sedutor - Freelancer
 <a href="https://danielportela.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview-desktop.jpg)
+![preview-desktop](https://github.com/daniel-portela/Cafeteria/assets/110783805/a3901b12-6179-4cdf-8731-41d995029aef)
 
-![alt text](preview-responsive.jpg)
-
+![preview-responsive](https://github.com/daniel-portela/Cafeteria/assets/110783805/cf8a7b59-3c52-4ed3-bffe-6f562cfdc528)
 
 <b>Objetivo do projeto:</b>
 
